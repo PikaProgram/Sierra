@@ -1,2 +1,2 @@
 # Sierra
-The Sierra Game Monorepo
+The Sierra Game Repository
